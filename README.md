@@ -10,7 +10,8 @@ This lab is meant to be open ended so that you have the opportunity to reason ou
 
 In the previous lab you built several methods. It is now time to actually use those methods. For example we have the `city#city_openings` method in your `city.rb` file. This can be used to search for available openings. See demo below:
 
-https://youtu.be/A-h0x6w-PKo
+
+[![Alt text](https://img.youtube.com/vi/A-h0x6w-PKo/0.jpg)](https://www.youtube.com/watch?v=A-h0x6w-PKo)
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/flatiron-bnb-methods'>Flatiron Bnb Methods Lab</a> on Learn.co and start learning to code for free.</p>
