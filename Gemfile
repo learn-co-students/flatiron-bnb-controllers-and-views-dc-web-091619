@@ -1,15 +1,15 @@
 source 'https://rubygems.org'
 
-gem 'rails', '~> 4.2'
-gem 'coffee-rails', '~> 4.0.0'
+gem 'rails', '5.0.7.1'
+gem 'coffee-rails'
 gem 'jquery-rails'
-gem 'sass-rails', '4.0.2'
+gem 'sass-rails'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'uglifier', '>= 1.3.0'
+gem 'bootsnap'
 
 group :development, :test do
   gem 'rack_session_access'
-  gem "better_errors"
   gem "binding_of_caller"
   gem "capybara"
   gem "database_cleaner"
